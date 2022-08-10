@@ -1,0 +1,113 @@
+header img {
+  float: left;
+}
+header {
+  overflow: auto;
+  background-color: #008080;
+}
+h2 {
+  text-align: center;
+  background-color:
+}
+dl {
+  text-align: left;
+}
+ul li a {
+  text-decoration: none;
+  list-style-type: none;
+}
+nav a {
+  text-decoration: none;
+  margin-left: 60px;
+}
+main img {
+  float: left;
+}
+main {
+  overflow: auto;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  text-decoration: none;
+}
+nav {
+  background-color: #008080;
+}
+nav a { margin: 30px;}
+nav li
+{
+display: inline;
+margin-left: 20px;
+}
+nav ul ul
+{
+display: none;
+position: absolute;
+}
+nav ul ul li
+{
+display: block;
+}
+nav ul li:hover ul
+{
+display: block;
+}
+nav ul li
+{
+display: inline-block;
+}
+nav ul {
+  text-align: center;
+}
+.text {
+  margin-left: 40%;
+  margin-right: 10%;
+  text-align: center;
+  background-color: #FF7F64;
+}
+#wrapper {
+  width: 80%;
+  margin: auto;
+  background-color: gold;
+  margin-top: 5%;
+  background-image: url(../images/writing.png);
+  background-repeat: no-repeat;
+  background-position: -145px 105px;
+
+}
+footer {
+  background-color: #008080;
+}
+body {
+  background-image: url(../images/messi.png);
+  background-repeat: no-repeat;
+  background-position: -145px -80px;
+  background-color: black;
+}
+table, th, td {
+  border: 1px solid;
+}
+table {
+  margin-left: 90px;
+}
+form { display: flex;
+flex-direction: column;
+padding-left: 1em; width: 80%;
+}
+input, textarea { margin-bottom: .5em;
+}
+#mySubmit {
+  padding: 2px;
+}
+.contra {
+  text-align: center;
+  font-family: cursive;
+}
+audio {
+  float: left;
+}
+iframe {
+  float: left;
+}
